@@ -3,7 +3,7 @@
 
 
 1. [http状态码](https://github.com/AILINGANGEL/NetWork/issues/1)
-2. 常见的HTTP请求头或者响应头
+2. [常见的HTTP请求头或者响应头](https://github.com/AILINGANGEL/NetWork/issues/7)
 3. [TCP三次握手和四次挥手](https://github.com/AILINGANGEL/NetWork/issues/2)
 6. TCP/IP模型
 7. 常用的两种协议TCP和UDP的优缺点
@@ -16,7 +16,7 @@
 14. 127.0.0.1和192.168.0.1的的区别
 15. websoket comet serversent 长轮训以及短轮询
 16. http2.0有哪些特点
-17. http协议是无状态的
+17. [http协议是无状态的](https://github.com/AILINGANGEL/NetWork/issues/5)
 18. http报文大小限制
-19. http缓存机制
+19. [http缓存机制](https://github.com/AILINGANGEL/NetWork/issues/6)
 20. [正向代理和反向代理](https://github.com/AILINGANGEL/NetWork/issues/4)
